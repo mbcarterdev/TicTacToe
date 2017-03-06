@@ -23,5 +23,6 @@ function makeBoard() {
 }
 
 //need to build a markBoard function
-//need to track x and o players
+//need to track x and o players turns (playTurn)
 //need to identify a winning board
+  //could make an array listing all winning board combinations
